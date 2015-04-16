@@ -21,6 +21,7 @@
 			<array>
 				<string>Node</string>
 				<string>Layer</string>
+                <string>TableView</string>
 			</array>
 		</dict>
         <dict>
