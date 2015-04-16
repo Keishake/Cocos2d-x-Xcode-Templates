@@ -20,7 +20,7 @@ ___FILEBASENAME___::___FILEBASENAME___()
 
 ___FILEBASENAME___::~___FILEBASENAME___()
 {
-
+    m_instance = NULL;
 }
 
 ___FILEBASENAME___* ___FILEBASENAME___::getInstance()
